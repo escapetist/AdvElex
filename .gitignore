@@ -1,5 +1,11 @@
-#all docs
+#all docs and sheets
 *.txt
 *.pdf
 *.docx
 *.doc
+*.xlsx
+*.xls
+
+#backup files
+*.pdsbak
+*.workspace
